@@ -1,0 +1,40 @@
+body
+{
+    background-image: url("https://thumbs.gfycat.com/FluidCorruptArabianoryx-size_restricted.gif");
+    background-size: cover;
+}
+.pd{
+padding-bottom:100%;}
+.navbar
+{
+margin: 0px;
+padding:20px;
+background-color:white;
+opacity:0.6;
+color:black;
+font-family:'Roboto',sans-serif;
+font-style: italic;
+border-radius:20px;
+font-size:25px;
+}
+a
+{
+color:grey;
+float:right;
+text-decoration:none;
+font-style:normal;
+padding-right:20px;
+}
+a:hover{
+background-color:black;
+color:white;
+border-radius:15px;0
+font-size:30px;
+padding-left:10px;
+}
+p
+{
+color:turqouise;
+font-style:italic;
+font-size:30px;
+}
